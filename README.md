@@ -30,10 +30,10 @@ Melhorias organizacionais e de código
 3) Redundâncias e otimização de código repetitivo
 - Regex e validações repetidas (comentários inválidos, e-mails, etc.) encontradas em várias páginas.
   - Centralizar em um módulo único: lib/validators.ts (novo) e substituir usos em:
-    - <mcfile name="app/admin/feedback-nao-identificados/page.tsx" path="/Users/brunoantunes/Library/Mobile Documents/com~apple~CloudDocs/Bruno/juliana/Expi/WishEXPI/ExpiWish/app/admin/feedback-nao-identificados/page.tsx"></mcfile>
-    - <mcfile name="app/analysis/unidentified/page.tsx" path="/Users/brunoantunes/Library/Mobile Documents/com~apple~CloudDocs/Bruno/juliana/Expi/WishEXPI/ExpiWish/app/analysis/unidentified/page.tsx"></mcfile>
-    - <mcfile name="app/admin/usuarios/page.tsx" path="/Users/brunoantunes/Library/Mobile Documents/com~apple~CloudDocs/Bruno/juliana/Expi/WishEXPI/ExpiWish/app/admin/usuarios/page.tsx"></mcfile>
-    - <mcfile name="app/import/ImportPageContent.tsx" path="/Users/brunoantunes/Library/Mobile Documents/com~apple~CloudDocs/Bruno/juliana/Expi/WishEXPI/ExpiWish/app/import/ImportPageContent.tsx"></mcfile>
+- `app/admin/feedback-nao-identificados/page.tsx`
+- `app/analysis/unidentified/page.tsx`
+- `app/admin/usuarios/page.tsx`
+- `app/import/ImportPageContent.tsx`
 - Logger de desenvolvimento com funções vazias:
   - Preencher chamadas em <mcfile name="lib/dev-logger.ts" path="/Users/brunoantunes/Library/Mobile Documents/com~apple~CloudDocs/Bruno/juliana/Expi/WishEXPI/ExpiWish/lib/dev-logger.ts"></mcfile> para efetivamente logar em dev (console.*) e manter somente error/warn em produção (já há script que remove logs durante build).
 
