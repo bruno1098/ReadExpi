@@ -3,8 +3,6 @@
 Conclusão direta: O projeto está funcional e bem estruturado no geral, mas há riscos de segurança (autenticação no servidor, exposição de configs, falta de validação/sanitização), oportunidades claras de performance (queries ao Firestore, code-splitting, imagens), ausência de testes automatizados e pontos de UX/UI e acessibilidade a aprimorar. Abaixo segue um plano prático e objetivo, com o que mudar, onde mudar e como abordar cada item.
 
 
-
-
 Melhorias organizacionais e de código
 
 1) Estrutura de pastas e arquivos
