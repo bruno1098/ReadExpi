@@ -6,7 +6,7 @@ Conclusão direta: O projeto está funcional e bem estruturado no geral, mas há
 
 
 
-Melhorias organizacionais e de código
+Melhorias organizacionais e de código 
 
 1) Estrutura de pastas e arquivos
 - Situação atual: Estrutura próxima ao padrão Next 13 App Router com app/, components/, lib/, hooks/, scripts/ e contexts/. Há material não relacionado à app em zz/.
