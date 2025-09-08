@@ -5,7 +5,7 @@ Conclusão direta: O projeto está funcional e bem estruturado no geral, mas há
 
 
 
-
+ 
 Melhorias organizacionais e de código
 
 1) Estrutura de pastas e arquivos
