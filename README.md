@@ -6,9 +6,6 @@
 * A&B - Café da manhã 
 * A&B - Jantar
 * A&B - Almoço
-* A&B - Café da manhã Variedade Limitada
-* A&B - Jantar Variedade Limitada
-* A&B - Almoço Variedade Limitada
 * A&B - Serviço (entra preço, cardapio, atendimento, garçon)
 * A&B - Gastronomia 
 * A&B - Room Service (serviços de quarto em geral)
@@ -21,7 +18,7 @@
 * Limpeza - Áreas sociais
 * Limpeza - Enxoval
 * Limpeza - Amenities
-* Governança - Frigobar
+* Limpeza - Frigobar
 
 # Manutenção
 
@@ -68,7 +65,11 @@
 # Operações
 
 * Operações - Atendimento (quando elogia funcionarios no geral, algo mais generico voltado a atendimento)
-* Operações - Comunicação
-* Operações - Processo
 * Operações - Cartão de acesso (falhou, ou algo do tipo)
+
+
+
+* A&B - Café da manhã Variedade Limitada
+* A&B - Jantar Variedade Limitada
+* A&B - Almoço Variedade Limitada (problemas)
 
