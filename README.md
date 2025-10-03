@@ -3,14 +3,16 @@
 
 # A&B
 
-* A&B - Café da manhã
-* A&B - Preço
-* A&B - Serviço
-* A&B - Variedade
-* A&B - Gastronomia
+* A&B - Café da manhã 
 * A&B - Jantar
-* A&B - Room Service
 * A&B - Almoço
+* A&B - Café da manhã Variedade Limitada
+* A&B - Jantar Variedade Limitada
+* A&B - Almoço Variedade Limitada
+* A&B - Serviço (entra preço, cardapio, atendimento, garçon)
+* A&B - Gastronomia 
+* A&B - Room Service (serviços de quarto em geral)
+
 
 # Governança
 
@@ -18,7 +20,8 @@
 * Limpeza - Quarto
 * Limpeza - Áreas sociais
 * Limpeza - Enxoval
-* Amenities
+* Limpeza - Amenities
+* Governança - Frigobar
 
 # Manutenção
 
@@ -27,18 +30,14 @@
 * Manutenção - Instalações
 * Manutenção - Quarto
 * Manutenção - Elevador
-* Infraestrutura
-* Jardinagem
-* Isolamento acústico
+* Manutenção - Jardinagem
 
 # Recepção
 
-* Estacionamento
-* Check-in
-* Check-out
+* Recepção - Estacionamento
+* Recepção - Check-in
+* Recepção - Check-out
 * Recepção - Serviço
-* Concierge
-* Cartão de acesso
 
 # TI
 
@@ -51,40 +50,25 @@
 * Lazer - Variedade
 * Lazer - Serviço
 * Lazer - Atividades de Lazer
-* Piscina
-* Spa
-* Academia
-* Reserva de cadeiras (pool)
+* Lazer - Piscina
+* Lazer - Spa
+* Lazer - Academia
 
 # Produto
 
-* Transfer
-* Acessibilidade
-* Custo-benefício
-* Frigobar
-* Localização
-* Vista
-* Experiência
-* Tamanho
-* Pet
-* Modernização
-* All Inclusive
+* Porduto - Transfer
+* Produto - Acessibilidade
+* Produto - Custo-benefício
+* Produto - Localização
+* Produto - Vista
+* Produto - Experiência
+* Produto - Modernização
+* Produto - All Inclusive
 
 # Operações
 
-* Atendimento
-* Comunicação
-* Processo
-* Abordagem
-* Ferro de passar
-
-# Comercial
-
-* Reservas
-* Consumo Extra
-* Nota fiscal *(novo, normalizado a partir de “Corporativo - Nota Fiscal”)*
-
-# Programa de vendas
-
-* Cotas
+* Operações - Atendimento (quando elogia funcionarios no geral, algo mais generico voltado a atendimento)
+* Operações - Comunicação
+* Operações - Processo
+* Operações - Cartão de acesso (falhou, ou algo do tipo)
 
