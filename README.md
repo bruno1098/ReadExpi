@@ -67,9 +67,17 @@
 * Operações - Atendimento (quando elogia funcionarios no geral, algo mais generico voltado a atendimento)
 * Operações - Cartão de acesso (falhou, ou algo do tipo)
 
+# Corporativo
+* Corporativo - Marketing
+* Corporativo - Reservas
+* Corporativo - Financeiro
 
 
+# EG
+* EG - Abordagem
+
+(problemas)
 * A&B - Café da manhã Variedade Limitada
 * A&B - Jantar Variedade Limitada
-* A&B - Almoço Variedade Limitada (problemas)
+* A&B - Almoço Variedade Limitada
 
