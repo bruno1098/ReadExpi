@@ -34,7 +34,7 @@
 * Recepção - Estacionamento
 * Recepção - Check-in
 * Recepção - Check-out
-* Recepção - Serviço
+* Recepção - Serviço (Entra também emprestimo de Itens como ferro e entre outros )
 
 # TI
 
@@ -67,6 +67,8 @@
 
 * Operações - Atendimento (quando elogia funcionarios no geral, algo mais generico voltado a atendimento)
 * Operações - Cartão de acesso (falhou, ou algo do tipo)
+* Operações - Acesso ao quarto
+* Operações - Consumo Extra
 
 # Corporativo
 * Corporativo - Marketing
